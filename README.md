@@ -9,41 +9,6 @@ $  git config --global user.name "EliasRFarciroli"
 
 $ $ git config --global user.email elias.20171000900@sobeu.edu.br
 
-
-
-$  git config --global user.email elias.20171000900@sobeu.edu.br
-
-
-
-
-Elias@DESKTOP-7AP2RNO MINGW64 ~
-$ cd C:\Users\Elias\Desktop\Projetos\projetoSites
-bash: cd: C:UsersEliasDesktopProjetosprojetoSites: No such file or directory
-
-Elias@DESKTOP-7AP2RNO MINGW64 ~
-$ cd C:\Users\Elias\Desktop\Projetos\
-> ls
-bash: cd: C:UsersEliasDesktopProjetosls: No such file or directory
-
-Elias@DESKTOP-7AP2RNO MINGW64 ~
-$ cd C:\Users\Elias\Desktop\Projetosls
-bash: cd: C:UsersEliasDesktopProjetosls: No such file or directory
-
-Elias@DESKTOP-7AP2RNO MINGW64 ~
-$ cd C:\Users\Elias\Desktop\Projetos
-bash: cd: C:UsersEliasDesktopProjetos: No such file or directory
-
-Elias@DESKTOP-7AP2RNO MINGW64 ~
-$ C:\Users\Elias\Desktop\Projetos
-bash: C:UsersEliasDesktopProjetos: command not found
-
-Elias@DESKTOP-7AP2RNO MINGW64 ~
-$ cd
-
-Elias@DESKTOP-7AP2RNO MINGW64 ~
-$ cd C:\Users\Elias\Desktop\Projetos
-bash: cd: C:UsersEliasDesktopProjetos: No such file or directory
-
 Elias@DESKTOP-7AP2RNO MINGW64 ~
 $ cd C:/Users/Elias/Desktop/Projetos
 
