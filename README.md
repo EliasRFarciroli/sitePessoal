@@ -7,7 +7,7 @@ $  git config --global user.name "EliasRFarciroli"
 
 
 
-$ $ git config --global user.email elias.20171000900@sobeu.edu.br
+$ git config --global user.email elias.20171000900@sobeu.edu.br 
 
 Elias@DESKTOP-7AP2RNO MINGW64 ~
 $ cd C:/Users/Elias/Desktop/Projetos
